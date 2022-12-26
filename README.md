@@ -32,4 +32,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-07103b257/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+    <a href="mailto:aekkarit12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
 </div>
