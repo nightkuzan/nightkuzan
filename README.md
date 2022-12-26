@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 ![](https://raw.githubusercontent.com/nightkuzan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <!-- ![](https://raw.githubusercontent.com/nightkuzan/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
 
-## My Portfolio
-https://nightkuzan.github.io/My-Portfolio/
-
-
+<!-- add html -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nightkuzan/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="nightkuzan's github stats" />
+  <img src="https://raw.githubusercontent.com/nightkuzan/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="nightkuzan's github stats" />
+</div>
