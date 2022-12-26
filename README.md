@@ -26,13 +26,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.facebook.com/nixthmeow/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/nightkuzan/">
+  <a href="https://www.instagram.com/nniixxhhtt/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/nightkuzan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/nightkuzan/">
+  <a href="https://www.linkedin.com/in/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-07103b257/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
