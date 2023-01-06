@@ -1,8 +1,5 @@
 My Portfolio: https://nightkuzan.github.io/My-Portfolio/
 - 👋 Hi, I’m Night
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning reactjs nodejs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aekkarit12@gmail.com
 
 <!---
