@@ -1,5 +1,5 @@
 My Portfolio: https://nightkuzan.github.io/My-Portfolio/
-- 👋 Hi, I’m Night
+
 - 📫 How to reach me aekkarit12@gmail.com
 
 <!---
