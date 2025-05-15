@@ -31,14 +31,16 @@ I'm a versatile full-stack developer specializing in web and mobile technologies
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </div>
 
 ### Backend & Databases
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Knex.js-E16426?style=for-the-badge&logo=knex.js&logoColor=white" alt="KnexJS" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
   <img src="https://img.shields.io/badge/Koa.js-33333D?style=for-the-badge&logo=koa&logoColor=white" alt="Koa" />
@@ -53,14 +55,10 @@ I'm a versatile full-stack developer specializing in web and mobile technologies
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+   <img src="https://img.shields.io/badge/DBeaver-4D4D4D?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" />
 </div>
 
-## Recent Projects
-
-- **Administrator Management System** - Developed using Vue.js, Next.js, and Strapi to streamline platform management tasks
-- **Multi-Platform PWAs** - Created progressive web apps for A-MED CARE PLUS and Kepler with cross-device functionality
-- **Middleware System** - Built robust middleware for data processing with seamless integration to external APIs
-- **Dynamic News Feed** - Engineered personalized content delivery systems with customizable settings
 
 ## Connect With Me
 <div align="center">
