@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-nightkuzan.github.io-brightgreen?style=for-the-badge)](https://nightkuzan.github.io/My-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-aekkarit12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aekkarit12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nightkuzan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nightkuzan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aekkarit_Surit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aekkarit-surit-07103b257)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aekkarit_Surit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aekkarit-surit-07103b257)
 
 ## About Me
 
