@@ -63,7 +63,7 @@ I'm a versatile full-stack developer specializing in web and mobile technologies
 
 ## Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-07103b257/">
+  <a href="www.linkedin.com/in/aekkarit-surit-07103b257">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/nixthmeow/">
