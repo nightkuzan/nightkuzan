@@ -9,13 +9,6 @@
 
 I'm a versatile full-stack developer specializing in web and mobile technologies with expertise in React, Vue, Next.js, Node.js, MySQL, and Flutter. With experience in both freelance and professional roles, I've delivered solutions that align with client needs and business goals. Currently working as a Full Stack Developer at VICTORY WORK CO., LTD, I'm passionate about creating efficient and user-friendly applications.
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nightkuzan/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/nightkuzan/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
-</div>
-
 ## Skills
 
 ### Programming Languages
